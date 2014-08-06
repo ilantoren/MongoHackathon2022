@@ -14,6 +14,6 @@ object Config {
   implicit val ec = ExecutionContext.Implicits.global
   implicit val timeOut = Timeout(2 seconds)
   implicit val duration = timeOut.duration
-  implicit val path :Path = Path("test")
+  implicit val path :Path = Path("test2")
 }
 
