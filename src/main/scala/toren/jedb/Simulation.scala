@@ -9,7 +9,9 @@ import scala.util.{Failure, Success, Random}
 import SimulationCollector._
 import Config._
 
-
+/*
+   The starting point of the simulation.
+ */
 object Simulation extends App {
   // create a spring context
   implicit val ctx = FunctionalConfigApplicationContext(classOf[AppConfiguration])
@@ -21,12 +23,15 @@ object Simulation extends App {
   import java.io.FileWriter
   val fw : FileWriter = new FileWriter("test.csv")
   val tw: FileWriter = new FileWriter("breeders.txt")
+  // Give time for Spring to fully start the Akka actors
   Thread.sleep(30000)
+  // initial population
   val iPopSize: Int = 1000
   var jedbService: JedbService = _
   try {
     jedbService.start
     val population: ArrayBuffer[Individual] = ArrayBuffer[Individual]()
+
     println("Creating root individual")
     val individual: Individual = new Individual
     individual.id = 0
@@ -34,11 +39,19 @@ object Simulation extends App {
     individual.genotype = "AA"
     collector ! (individual :: List()).toArray
     println("saved root")
+
+
     import toren.jedb.RandTest._
     val rnd : Random = new Random
     val tpl = priorProbs(0.2)
     val list: Seq[String] = testSeq(iPopSize, tpl, rnd )
     var j: Int = 1
+
+    // Generation 1 is special and represents the starting condition
+    //   The prior probability is the relation between the dominant allele of gene A
+    // vs the recessive allele.  In Hardy-Weinberg this is also commonly referred to p and q
+    //   p+q = 1.  By the end of the simulation, due to the heterozygous advantage built in
+    // the simulation p will approach q (0.5).
     for (i <- list) {
       val ind: Individual = new Individual
       ind.generation = 1
@@ -49,12 +62,10 @@ object Simulation extends App {
       population += ind
     }
     collector ! population
-    // Run for 200 generations
-    import java.lang.Math._
+
+    // Start the simulation here
     val lastGen = 200
     for (gen <- 1 to lastGen) {
-
-      // val curGen: List[Individual] = Random.shuffle(jedbService.findByGeneration(gen))
       val curGen: List[Individual] = Random.shuffle(population.toList)
       val size = curGen.length
       println(s"Generation $gen   Population size $size ")
@@ -62,10 +73,10 @@ object Simulation extends App {
       report(gen, breeders)
       collector ! population.toArray
       printSummary( gen, getPercentage( population), fw)
+
+      // create the next generation alive for interval n where n <-2 to end
       population.clear
       for (ind <- nextGen) {
-        //val obj = IndividualObj(0, ind.parent, ind.genotype, gen + 1)
-        //jedbService.save(obj)
         val indn: Individual = new Individual
         indn.generation = gen + 1
         indn.genotype = ind.genotype
@@ -73,12 +84,13 @@ object Simulation extends App {
         indn.id = j
         j += 1
         population += indn
-
       }
+
+      // The proportion of breeders has been adjusted to be close to the number of deaths
+      // so as to keep the population from exploding.
       val children: ArrayBuffer[Individual] = nextGeneration(breeders, rnd)
       println(s"deaths $deaths,  breeders ${breeders.size}  births ${children.size} ")
       for (ind <- children)
-      //jedbService.save(ind)
         population += ind
     }
 

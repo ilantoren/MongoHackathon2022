@@ -4,7 +4,7 @@ import akka.actor.ActorSystem
 import org.springframework.beans.factory.config.BeanDefinition
 import org.springframework.context.ApplicationContext
 import org.springframework.scala.context.function.FunctionalConfiguration
-import toren.jedb.target.SimulationActor
+import toren.jedb.SimulationActor
 
 class AppConfiguration extends FunctionalConfiguration {
   /**
@@ -32,6 +32,10 @@ class AppConfiguration extends FunctionalConfiguration {
       service
   }
 
+  /*
+     The number of SimulationActors is fixed in the Simulation.  Each one has a reference to
+     the JEDB (Berkeley Java DB) service which is injected here by Spring
+   */
   val simulationActor = bean("simulationActor", scope = BeanDefinition.SCOPE_PROTOTYPE) {
     val actor = new SimulationActor
     actor.jedbService = jedbService()
