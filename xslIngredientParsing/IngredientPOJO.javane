@@ -1,0 +1,6693 @@
+<?xml
+@XmlAttribute  String version;
+@XmlAttribute  String version;
+encoding="UTF-8"?>
+<data>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+@XmlAttribute  String desc;
+@XmlAttribute  String desc;
+
+
+="Butter,
+salted"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="3000kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+cheddar"
+@XmlAttribute String foodGroup;
+@XmlAttribute String foodGroup;
+="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1698kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+cottage,
+creamed,
+large
+or
+small
+curd"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="412kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+cottage,
+nonfat,
+uncreamed,
+dry,
+large
+or
+small
+curd"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="303kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+feta"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1103kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+parmesan,
+grated"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1757kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+ricotta,
+whole
+milk"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="728kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+ricotta,
+part
+skim
+milk"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="578kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+swiss"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1591kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cream,
+fluid,
+heavy
+whipping"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1443kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cream,
+sour,
+cultured"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="809kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Milk,
+whole,
+3.25%
+milkfat,
+with
+added
+vitamin
+D"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="254kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Milk,
+reduced
+fat,
+fluid,
+2%
+milkfat,
+with
+added
+nonfat
+milk
+solids
+and
+vitamin
+A
+and
+vitamin
+D"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="213kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Whey,
+acid,
+fluid"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="100kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Yogurt,
+plain,
+whole
+milk,
+8
+grams
+protein
+per
+8
+ounce"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="257kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Egg,
+whole,
+raw,
+fresh"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="599kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Egg,
+white,
+raw,
+fresh"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="216kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Egg,
+yolk,
+raw,
+fresh"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1346kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+goat,
+hard
+type"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1891kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+goat,
+semisoft
+type"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1523kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+goat,
+soft
+type"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1106kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Sour
+cream,
+reduced
+fat"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="757kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Sour
+cream,
+light"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="569kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Yogurt,
+Greek,
+plain,
+nonfat"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="246kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+cheddar,
+reduced
+fat"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1294kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Spices,
+mustard
+seed,
+ground"
+foodGroup="Spices
+and
+Herbs"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2126kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Salt,
+table"
+foodGroup="Spices
+and
+Herbs"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="0kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Vinegar,
+cider"
+foodGroup="Spices
+and
+Herbs"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="90kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Oil,
+olive,
+salad
+or
+cooking"
+foodGroup="Fats
+and
+Oils"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="3699kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Salad
+dressing,
+home
+recipe,
+vinegar
+and
+oil"
+foodGroup="Fats
+and
+Oils"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1878kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Oil,
+canola"
+foodGroup="Fats
+and
+Oils"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="3699kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Oil,
+industrial,
+soy
+(partially
+hydrogenated
+),
+palm,
+principal
+uses
+icings
+and
+fillings"
+foodGroup="Fats
+and
+Oils"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="3699kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Chicken,
+roasting,
+dark
+meat,
+meat
+only,
+raw"
+foodGroup="Poultry
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="473kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Turkey
+from
+whole,
+dark
+meat,
+meat
+only,
+raw"
+foodGroup="Poultry
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="451kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="SWANSON
+BROTH,
+Vegetable
+Broth"
+foodGroup="Soups,
+Sauces,
+and
+Gravies"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="21kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Ham,
+chopped,
+not
+canned"
+foodGroup="Sausages
+and
+Luncheon
+Meats"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="752kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pork
+and
+beef
+sausage,
+fresh,
+cooked"
+foodGroup="Sausages
+and
+Luncheon
+Meats"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1657kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Smoked
+link
+sausage,
+pork"
+foodGroup="Sausages
+and
+Luncheon
+Meats"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1295kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pork,
+cured,
+bacon,
+unprepared"
+foodGroup="Pork
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1744kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Asparagus,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="85kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Beans,
+kidney,
+mature
+seeds,
+sprouted,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="121kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Broccoli,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="141kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Carrots,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="173kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Garlic,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="623kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Jerusalem-artichokes,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="304kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Mushrooms,
+Chanterelle,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="160kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Kohlrabi,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="113kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Kohlrabi,
+cooked,
+boiled,
+drained,
+without
+salt"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="121kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Mushrooms,
+white,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="93kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Mushrooms,
+portabella,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="92kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Onions,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="166kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Parsley,
+fresh"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="151kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Potatoes,
+hash
+brown,
+home-prepared"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1109kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Potatoes,
+hash
+brown,
+frozen,
+plain,
+unprepared"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="343kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Potatoes,
+hash
+brown,
+frozen,
+plain,
+prepared,
+pan
+fried
+in
+canola
+oil"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="917kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Potatoes,
+hash
+brown,
+frozen,
+with
+butter
+sauce,
+prepared"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="745kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Broccoli,
+flower
+clusters,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="117kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Peppers,
+sweet,
+red,
+raw"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="129kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pimento,
+canned"
+foodGroup="Vegetables
+and
+Vegetable
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="96kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Nuts,
+almonds,
+blanched"
+foodGroup="Nut
+and
+Seed
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2468kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Seeds,
+flaxseed"
+foodGroup="Nut
+and
+Seed
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2234kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Beef,
+chuck
+eye
+roast,
+boneless,
+America's
+Beef
+Roast,
+separable
+lean
+and
+fat,
+trimmed
+to
+0&#34;
+fat,
+select,
+raw"
+foodGroup="Beef
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="724kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cocoa
+mix,
+powder"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1664kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Coffee,
+brewed,
+espresso,
+restaurant-prepared"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="36kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Beans,
+adzuki,
+mature
+seeds,
+cooked,
+boiled,
+without
+salt"
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="536kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Beans,
+black,
+mature
+seeds,
+raw"
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1425kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+@XmlAttribute  String desc;
+@XmlAttribute  String desc;
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="807kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Soy
+protein
+isolate"
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1414kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Lentils,
+pink
+or
+red,
+raw"
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1498kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="MORI-NU,
+Tofu,
+silken,
+extra
+firm"
+foodGroup="Legumes
+and
+Legume
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="230kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Puff
+pastry,
+frozen,
+ready-to-bake"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2305kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Leavening
+agents,
+baking
+powder,
+double-acting,
+sodium
+aluminum
+sulfate"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="222kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Leavening
+agents,
+baking
+soda"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="0kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pie
+crust,
+deep
+dish,
+frozen,
+unbaked,
+made
+with
+enriched
+flour"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1958kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pie
+crust,
+refrigerated,
+regular,
+baked"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2117kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Pie
+crust,
+refrigerated,
+regular,
+unbaked"
+foodGroup="Baked
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1864kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cocoa,
+dry
+powder,
+unsweetened"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="952kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Sugars,
+granulated"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1618kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Chocolate,
+dark,
+70-85%
+cacao
+solids"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="2504kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Sweetener,
+herbal
+extract
+powder
+from
+Stevia
+leaf"
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="0kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Buckwheat
+flour,
+whole-groat"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1402kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Corn
+flour,
+masa,
+enriched,
+white"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1517kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+@XmlAttribute  String desc;
+@XmlAttribute  String desc;
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1594kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Quinoa,
+uncooked"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1539kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Rice,
+white,
+glutinous,
+raw"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1548kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Wheat
+flour,
+white,
+all-purpose,
+self-rising,
+enriched"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1481kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Wheat
+flour,
+white,
+all-purpose,
+unenriched"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1523kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Fast
+foods,
+potatoes,
+hash
+browns,
+round
+pieces
+or
+patty"
+foodGroup="Fast
+Foods"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1140kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Cheese,
+swiss,
+low
+sodium"
+foodGroup="Dairy
+and
+Egg
+Products"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1564kJ"/>
+<ingredient
+@XmlAttribute  String protein;
+@XmlAttribute  String protein;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String totalFat;
+@XmlAttribute  String calories;
+@XmlAttribute  String calories;
+@XmlAttribute  String starch;
+@XmlAttribute  String starch;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String glucose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String lactose;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String sugars;
+@XmlAttribute  String sugars;
+@XmlAttribute  String fiber;
+@XmlAttribute  String fiber;
+@XmlAttribute  String calcium;
+@XmlAttribute  String calcium;
+@XmlAttribute  String iron;
+@XmlAttribute  String iron;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sodium;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitD;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitC;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String transFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String satFat;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String id;
+@XmlAttribute  String id;
+desc="Vital
+wheat
+gluten"
+foodGroup="Cereal
+Grains
+and
+Pasta"
+@XmlAttribute  String fgId;
+@XmlAttribute  String fgId;
+@XmlAttribute  String choFact;
+@XmlAttribute  String choFact;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String proFact;
+@XmlAttribute  String proFact;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fatFact;
+energy="1548kJ"/>
+</data>

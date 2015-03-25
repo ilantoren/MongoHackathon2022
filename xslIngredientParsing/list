@@ -1,0 +1,35 @@
+</data>
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+@XmlAttribure  String energy;
+@XmlAttribute  String adj_protein;
+@XmlAttribute  String alcohol;
+@XmlAttribute  String caffeine;
+@XmlAttribute  String calcium;
+@XmlAttribute  String carbohydrate;
+@XmlAttribute  String choFact;
+@XmlAttribute  String cholesterol;
+@XmlAttribute  String desc;
+@XmlAttribute  String fatFact;
+@XmlAttribute  String fgId;
+@XmlAttribute  String fiber;
+@XmlAttribute  String foodGroup;
+@XmlAttribute  String glucose;
+@XmlAttribute  String id;
+@XmlAttribute  String iron;
+@XmlAttribute  String lactose;
+@XmlAttribute  String magnesium;
+@XmlAttribute  String monoFat;
+@XmlAttribute  String nfactor;
+@XmlAttribute  String polyFat;
+@XmlAttribute  String proFact;
+@XmlAttribute  String protein;
+@XmlAttribute  String satFat;
+@XmlAttribute  String sodium;
+@XmlAttribute  String sucrose;
+@XmlAttribute  String sugars;
+@XmlAttribute  String theobromine;
+@XmlAttribute  String transFat;
+@XmlAttribute  String vitA;
+@XmlAttribute  String vitC;
+@XmlAttribute  String vitD;

@@ -1,0 +1,123 @@
+<DATA>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>203</Nutr_No>
+		<NutrDesc>Protein</NutrDesc>
+		<Nutr_Val>0.85g</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>204</Nutr_No>
+		<NutrDesc>Total lipid (fat)</NutrDesc>
+		<Nutr_Val>81.11g</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>205</Nutr_No>
+		<NutrDesc>Carbohydrate, by difference</NutrDesc>
+		<Nutr_Val>0.06g</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>208</Nutr_No>
+		<NutrDesc>Energy</NutrDesc>
+		<Nutr_Val>717kcal</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>221</Nutr_No>
+		<NutrDesc>Alcohol, ethyl</NutrDesc>
+		<Nutr_Val>0g</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>262</Nutr_No>
+		<NutrDesc>Caffeine</NutrDesc>
+		<Nutr_Val>0mg</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>263</Nutr_No>
+		<NutrDesc>Theobromine</NutrDesc>
+		<Nutr_Val>0mg</Nutr_Val>
+	</ROW>
+
+	<ROW>
+		<NDB_NO>01001</NDB_NO>
+		<Shrt_Desc>BUTTER,WITH SALT</Shrt_Desc>
+		<Long_Desc>Butter, salted</Long_Desc>
+		<CHO_Factor>3.87</CHO_Factor>
+		<N_Factor>6.38</N_Factor>
+		<Pro_Factor>4.27</Pro_Factor>
+		<Fat_Factor>8.79</Fat_Factor>
+		<FdGrp_CD>0100</FdGrp_CD>
+		<FdGrp_Desc>Dairy and Egg Products</FdGrp_Desc>
+		<Nutr_No>268</Nutr_No>
+		<NutrDesc>Energy</NutrDesc>
+		<Nutr_Val>3000kJ</Nutr_Val>
+	</ROW>
+	</DATA>
+	

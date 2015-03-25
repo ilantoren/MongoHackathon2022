@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<recipe id="1">
+		<id>001</id>
+		<title>Hash brown and asparagus quiche</title>
+		<servings>8</servings>
+		<contributor>Kristy Bernardo</contributor>
+		<photos>http://www.simplypotatoes.com/images/recipes/4500a.jpg</photos>
+		<website>http://www.thewickednoodle.com/</website>
+		<ratings>
+			<number>100</number>
+			<rating>3.2</rating>
+		</ratings>
+		<steps>
+			<instruction>Preheat oven to 425 F</instruction>
+			<num>1</num>
+		</steps>
+		<steps>
+			<instruction>In a medium  bowl mix 2 potatoes, butter, salt. Reserve 1 1/2 cup of the potatoes</instruction>
+			<num>2</num>
+			<lines>
+				<food>butter</food>
+				<quantity>1/2 cup</quantity>
+				<mod>melted</mod>
+				<ndb>1001</ndb>
+			</lines>
+			<lines>
+				<food>salt</food>
+				<quantity>2/4  tsp</quantity>
+				<mod></mod>
+				<ndb>1040</ndb>
+			</lines>
+			<lines>
+				<food>hash brown</food>
+				<quantity>3.5 cups</quantity>
+				<mod>1 pkg of frozen</mod>
+				<ndb>11391</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<instruction>Press ingredients into a pie pan</instruction>
+			<num>3</num>
+		</steps>
+		<steps>
+			<instruction>Bake crust 20-25 minutes</instruction>
+			<num>4</num>
+		</steps>
+		<steps>
+			<instruction>Whisk together ingredients in large bowl.</instruction>
+			<num>5</num>
+			<lines>
+				<food>eggs</food>
+				<quantity>3</quantity>
+				<mod></mod>
+				<ndb>1123</ndb>
+			</lines>
+			<lines>
+				<food>egg yolks</food>
+				<quantity>3</quantity>
+				<mod></mod>
+				<ndb>1125</ndb>
+			</lines>
+			<lines>
+				<food>heavy cream</food>
+				<quantity>1/2 cup</quantity>
+				<mod></mod>
+				<ndb>1053</ndb>
+			</lines>
+			<lines>
+				<food>milk</food>
+				<quantity>1/2 cup</quantity>
+				<mod></mod>
+				<ndb>1077</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<instruction>Reduce oven to 350 F</instruction>
+			<num>6</num>
+		</steps>
+		<steps>
+			<instruction>Sprinkle ham and cheese  over crust. Add asparagus and egg milk</instruction>
+			<num>7</num>
+			<lines>
+				<food>ham</food>
+				<quantity>1 cup</quantity>
+				<mod>diced</mod>
+				<ndb>7027</ndb>
+			</lines>
+			<lines>
+				<food>Swiss cheese</food>
+				<quantity>1 cup</quantity>
+				<mod>shredded</mod>
+				<ndb>2047</ndb>
+			</lines>
+			<lines>
+				<food>asparagus</food>
+				<quantity>5 stalks</quantity>
+				<mod>tough ends discarded</mod>
+				<ndb>11011</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<instruction>Bake for 25 minutes</instruction>
+			<num>8</num>
+		</steps>
+		<steps>
+			<instruction>Remove quiche from oven press. Add remaining potatoes</instruction>
+			<num>9</num>
+		</steps>
+		<steps>
+			<instruction>Set oven to broil and return quiche. 5-7 minutes to brown.</instruction>
+			<num>10</num>
+		</steps>
+	</recipe>
+	<recipe id="2">
+		<id>002</id>
+		<title>Quiche Lorraine</title>
+		<contributor>Jane Smith</contributor>
+		<photos>http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--4486_10.jpg</photos>
+		<website>http://www.bbcgoodfood.com/recipes/3075/quiche-lorraine</website>
+		<servings>8</servings>
+		<ratings>
+			<number>100</number>
+			<rating>3.2</rating>
+		</ratings>
+		<steps>
+			<instruction>Preheat oven to 180 C</instruction>
+			<num>1</num>
+		</steps>
+		<steps>
+			<num>2</num>
+			<instruction>In a medium  bowl, toss 4 teasponons flour with the grated cheese. . Sprinkle mixture into the pie shell. On top of cheese, sprinkle 1/2 cup of diced ham.</instruction>
+			<lines>
+				<quantity>1 1/2 cup</quantity>
+				<food>Swiss cheese</food>
+				<mod>shredded</mod>
+				<ndb>1040</ndb>
+			</lines>
+			<lines>
+				<food>flour</food>
+				<quantity>4 tsp</quantity>
+				<ndb>20082</ndb>
+			</lines>
+			<lines>
+				<food>cooked ham</food>
+				<mod>diced</mod>
+				<quantity>1/2 cup</quantity>
+				<ndb>7027</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<num>3</num>
+			<instruction>In medium bowl, combine eggs, milk or cream, and then add salt and mustard powder. Beat until smooth and pour over cheese and ham.</instruction>
+			<lines>
+				<food>eggs</food>
+				<quantity>3</quantity>
+				<ndb>1123</ndb>
+			</lines>
+			<lines>
+				<food>cream</food>
+				<quantity>1 cup</quantity>
+				<ndb>1053</ndb>
+			</lines>
+			<lines>
+				<food>salt</food>
+				<quantity>1/4 tsp</quantity>
+				<ndb>2047</ndb>
+			</lines>
+			<lines>
+				<food>ground mustard</food>
+				<quantity>1/4 tsp</quantity>
+				<ndb>2024</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<num>4</num>
+			<instruction>Put piece of plastic wrap large enough to overlap sides over top of quiche, then a piece of foil, and seal well around the edges. (plastic keeps the foil from sticking to the food). Place prepared quiche in freezer.</instruction>
+			<lines>
+				<food>pie crust</food>
+				<mod>(9 inch) unbaked</mod>
+				<quantity>1</quantity>
+				<ndb>18945</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<num>5</num>
+			<instruction>When ready to prepare, preheat oven to 400 degrees F (200 degrees C.) Remove foil and plastic wrap. Put foil around edge of crust to protect it.</instruction>
+		</steps>
+		<steps>
+			<num>6</num>
+			<instruction>Bake in the preheated oven for 60 minutes, or until filling is set and crust is golden brown. Garnish with parsley and pimiento if desired</instruction>
+			<lines>
+				<full>2 tablespoons chopped fresh parsley, for garnish</full>
+				<food>parsley</food>
+				<quantity>2 Tbl</quantity>
+				<mod>chopped fresh parsley, for garnish</mod>
+				<ndb>11297</ndb>
+			</lines>
+			<lines>
+				<full>2 tablespoons chopped pimento peppers,garnish</full>
+				<food>pimento peppers</food>
+				<quantity>2 Tbl</quantity>
+				<mod>chopped for garnish</mod>
+				<ndb>11943</ndb>
+			</lines>
+		</steps>
+	</recipe>
+	<recipe id="3">
+		<id>003</id>
+		<title>One bowl chocolate cake</title>
+		<contributor>Johnny Quest</contributor>
+		<website>http://wwww.bbcgoodfood.com/</website>
+		<photos>http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1261451_8.jpg</photos>
+		<servings>10</servings>
+		<ratings>
+			<number>100</number>
+			<rating>3.2</rating>
+		</ratings>
+		<steps>
+			<num>1</num>
+			<instruction>Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.</instruction>
+		</steps>
+		<steps>
+			<num>2</num>
+			<instruction>In a large bowl, combine the flour, sugar, cocoa, baking soda, baking powder and salt. Make a well in the center and pour in the eggs, coffee, milk, oil and vinegar. Mix until smooth; the batter will be thin. Pour the batter into the prepared pan.</instruction>
+			<lines>
+				<food>white sugar</food>
+				<quantity>2 cups</quantity>
+				<ndb>19335</ndb>
+			</lines>
+			<lines>
+				<food>flour</food>
+				<quantity>3 cups</quantity>
+				<ndb>20082</ndb>
+			</lines>
+			<lines>
+				<food>unsweetened cocoa</food>
+				<quantity>3/4 cup</quantity>
+				<ndb>19165</ndb>
+			</lines>
+			<lines>
+				<food>baking soda</food>
+				<quantity>2 tsp</quantity>
+				<ndb>18372</ndb>
+			</lines>
+			<lines>
+				<food>baking powder</food>
+				<quantity>1 tsp</quantity>
+				<ndb>18369</ndb>
+			</lines>
+			<lines>
+				<food>salt</food>
+				<quantity>1/2 tsp</quantity>
+				<ndb>2047</ndb>
+			</lines>
+			<lines>
+				<food>eggs</food>
+				<quantity>2</quantity>
+				<ndb>1123</ndb>
+			</lines>
+			<lines>
+				<food>brewed coffee</food>
+				<quantity>1 cup</quantity>
+				<mod>cold</mod>
+				<ndb>14210</ndb>
+			</lines>
+			<lines>
+				<food>milk</food>
+				<quantity>1 cup</quantity>
+				<ndb>1077</ndb>
+			</lines>
+			<lines>
+				<food>vegetable oil</food>
+				<quantity>1/2 cup</quantity>
+				<ndb>4582</ndb>
+			</lines>
+			<lines>
+				<food>vinegar</food>
+				<quantity>2 tsp</quantity>
+				<ndb>2048</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<num>3</num>
+			<instruction>Bake in the preheated oven for 35 to 40 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool</instruction>
+		</steps>
+	</recipe>
+	<recipe id="4">
+		<id>004</id>
+		<title>Rice with vegetables</title>
+		<contributor>Spice Haat</contributor>
+		<website>http://www.bbcgoodfood.com</website>
+		<servings>6</servings>
+		<ratings>
+			<number>100</number>
+			<rating>3.2</rating>
+		</ratings>
+		<photos>http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--338635_12.jpg</photos>
+		<steps>
+			<num>1</num>
+			<instruction>Heat oil in a saucepan over medium heat. Cook and stir onion, carrot, broccoli, red bell pepper, and garlic in hot oil until garlic just begins to brown, about 5 minutes.</instruction>
+			<lines>
+				<food>vegetable oil</food>
+				<quantity>1 tsp</quantity>
+				<mod>high heat oil like peanut oil preferable</mod>
+				<ndb>4664</ndb>
+			</lines>
+			<lines>
+				<food>onion</food>
+				<quantity>1 small</quantity>
+				<mod>chopped</mod>
+				<ndb>11282</ndb>
+			</lines>
+			<lines>
+				<food>carrot</food>
+				<quantity>1</quantity>
+				<mod>diced</mod>
+				<ndb>11124</ndb>
+			</lines>
+			<lines>
+				<food>broccoli florets</food>
+				<quantity>1/2 cup</quantity>
+				<mod>chopped</mod>
+				<ndb>11090</ndb>
+			</lines>
+			<lines>
+				<food>red bell pepper</food>
+				<mod>diced</mod>
+				<quantity>1/4 cup</quantity>
+				<ndb>11821</ndb>
+			</lines>
+			<lines>
+				<food>garlic</food>
+				<quantity> 1 clove</quantity>
+				<mod>minced</mod>
+				<ndb>11215</ndb>
+			</lines>
+		</steps>
+		<steps>
+			<num>2</num>
+			<instruction>Pour vegetable broth into the saucepan; add rice, sazon seasoning, and adobo seasoning and stir. Bring the liquid to a boil, reduce heat to low, and cook until the liquid is absorbed and the rice is tender, about 25 minutes. Fluff rice with a fork to serve.</instruction>
+			<lines>
+				<food>long grain rice</food>
+				<quantity>1 1/2 cup</quantity>
+				<ndb>20054</ndb>
+			</lines>
+			<lines>
+				<food>vegetable broth</food>
+				<quantity>3 cup</quantity>
+				<ndb>6615</ndb>
+			</lines>
+			<lines>
+				<food>sazon seasoning</food>
+				<quantity>1 pkg</quantity>
+				<mod>with coriander and achiote (such as Goya®)</mod>
+				<ndb>0</ndb>
+			</lines>
+			<lines>
+				<food>adobo seasoning with pepper</food>
+				<quantity>1 dash</quantity>
+				<mod>Goya®</mod>
+				<ndb>0</ndb>
+			</lines>
+		</steps>
+	</recipe>
+	<row>
+      <key>key</key>
+      <recipe>recipe</recipe>
+      <gram>grm</gram>
+      <ndb>ndb_no</ndb>
+      <desc>ndb_desc</desc>
+      <protein>protein</protein>
+      <totalFat>totalFat</totalFat>
+      <calories>calories</calories>
+      <sodium>sodium</sodium>
+      <carbohydrate>carbohydrate</carbohydrate>
+   </row>
+   <row id="1-1001">
+      <key>1-1001</key>
+      <recipe>1</recipe>
+      <gram>114</gram>
+      <ndb>1001</ndb>
+      <desc>Butter, salted</desc>
+      <protein>0.969</protein>
+      <totalFat>92.4654</totalFat>
+      <calories>817.38</calories>
+      <sodium>733.02</sodium>
+      <carbohydrate>0.0684</carbohydrate>
+   </row>
+   <row>
+      <key>1-1125</key>
+      <recipe>1</recipe>
+      <gram>52</gram>
+      <ndb>1125</ndb>
+      <desc>Egg, yolk, raw, fresh</desc>
+      <protein>8.2472</protein>
+      <totalFat>13.8008</totalFat>
+      <calories>167.44</calories>
+      <sodium>24.96</sodium>
+      <carbohydrate>1.8668</carbohydrate>
+   </row>
+   <row>
+      <key>1-1123</key>
+      <recipe>1</recipe>
+      <gram>150</gram>
+      <ndb>1123</ndb>
+      <desc>Egg, whole, raw, fresh</desc>
+      <protein>18.84</protein>
+      <totalFat>14.265</totalFat>
+      <calories>214.5</calories>
+      <sodium>213</sodium>
+      <carbohydrate>1.08</carbohydrate>
+   </row>
+   <row>
+      <key>1-7027</key>
+      <recipe>1</recipe>
+      <gram>224</gram>
+      <ndb>7027</ndb>
+      <desc>Ham, chopped, not canned</desc>
+      <protein>36.96</protein>
+      <totalFat>23.072</totalFat>
+      <calories>403.2</calories>
+      <sodium>2327.36</sodium>
+      <carbohydrate>9.408</carbohydrate>
+   </row>
+   <row>
+      <key>1-11391</key>
+      <recipe>1</recipe>
+      <gram>735</gram>
+      <ndb>11391</ndb>
+      <desc>Potatoes, hash brown, frozen, plain, prepared, pan fried
+in canola oil</desc>
+      <protein>19.4775</protein>
+      <totalFat>85.1865</totalFat>
+      <calories>1609.65</calories>
+      <sodium>110.25</sodium>
+      <carbohydrate>209.5485</carbohydrate>
+   </row>
+   <row>
+      <key>1-1053</key>
+      <recipe>1</recipe>
+      <gram>60</gram>
+      <ndb>1053</ndb>
+      <desc>Cream, fluid, heavy whipping</desc>
+      <protein>1.23</protein>
+      <totalFat>22.2</totalFat>
+      <calories>207</calories>
+      <sodium>22.8</sodium>
+      <carbohydrate>1.674</carbohydrate>
+   </row>
+   <row>
+      <key>1-1077</key>
+      <recipe>1</recipe>
+      <gram>123</gram>
+      <ndb>1077</ndb>
+      <desc>Milk, whole, 3.25% milkfat, with added vitamin D</desc>
+      <protein>3.8745</protein>
+      <totalFat>3.9975</totalFat>
+      <calories>75.03</calories>
+      <sodium>52.89</sodium>
+      <carbohydrate>5.904</carbohydrate>
+   </row>
+   <row>
+      <key>1-1040</key>
+      <recipe>1</recipe>
+      <gram>18</gram>
+      <ndb>1040</ndb>
+      <desc>Cheese, swiss</desc>
+      <protein>4.8474</protein>
+      <totalFat>5.004</totalFat>
+      <calories>68.4</calories>
+      <sodium>12.6</sodium>
+      <carbohydrate>0.9684</carbohydrate>
+   </row>
+   <row>
+      <key>1-2047</key>
+      <recipe>1</recipe>
+      <gram>108</gram>
+      <ndb>2047</ndb>
+      <desc>Salt, table</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>0</calories>
+      <sodium>41858.64</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+   <row>
+      <key>1-11011</key>
+      <recipe>1</recipe>
+      <gram>90</gram>
+      <ndb>11011</ndb>
+      <desc>Asparagus, raw</desc>
+      <protein>1.98</protein>
+      <totalFat>0.108</totalFat>
+      <calories>18</calories>
+      <sodium>1.8</sodium>
+      <carbohydrate>3.492</carbohydrate>
+   </row>
+   <row>
+      <key>2-7027</key>
+      <recipe>2</recipe>
+      <gram>112</gram>
+      <ndb>7027</ndb>
+      <desc>Ham, chopped, not canned</desc>
+      <protein>18.48</protein>
+      <totalFat>11.536</totalFat>
+      <calories>201.6</calories>
+      <sodium>1163.68</sodium>
+      <carbohydrate>4.704</carbohydrate>
+   </row>
+   <row>
+      <key>2-1053</key>
+      <recipe>2</recipe>
+      <gram>238</gram>
+      <ndb>1053</ndb>
+      <desc>Cream, fluid, heavy whipping</desc>
+      <protein>4.879</protein>
+      <totalFat>88.06</totalFat>
+      <calories>821.1</calories>
+      <sodium>90.44</sodium>
+      <carbohydrate>6.6402</carbohydrate>
+   </row>
+   <row>
+      <key>2-1123</key>
+      <recipe>2</recipe>
+      <gram>150</gram>
+      <ndb>1123</ndb>
+      <desc>Egg, whole, raw, fresh</desc>
+      <protein>18.84</protein>
+      <totalFat>14.265</totalFat>
+      <calories>214.5</calories>
+      <sodium>213</sodium>
+      <carbohydrate>1.08</carbohydrate>
+   </row>
+   <row>
+      <key>2-20082</key>
+      <recipe>2</recipe>
+      <gram>31</gram>
+      <ndb>20082</ndb>
+      <desc>Wheat flour, white, all-purpose, self-rising, enriched</desc>
+      <protein>3.0659</protein>
+      <totalFat>0.3007</totalFat>
+      <calories>109.74</calories>
+      <sodium>369.83</sodium>
+      <carbohydrate>23.0082</carbohydrate>
+   </row>
+   <row>
+      <key>2-2024</key>
+      <recipe>2</recipe>
+      <gram>0.5</gram>
+      <ndb>2024</ndb>
+      <desc>Spices, mustard seed, ground</desc>
+      <protein>0.1304</protein>
+      <totalFat>0.1812</totalFat>
+      <calories>2.54</calories>
+      <sodium>0.065</sodium>
+      <carbohydrate>0.14045</carbohydrate>
+   </row>
+   <row>
+      <key>2-11297</key>
+      <recipe>2</recipe>
+      <gram>7.4</gram>
+      <ndb>11297</ndb>
+      <desc>Parsley, fresh</desc>
+      <protein>0.21978</protein>
+      <totalFat>0.05846</totalFat>
+      <calories>2.664</calories>
+      <sodium>4.144</sodium>
+      <carbohydrate>0.46842</carbohydrate>
+   </row>
+   <row>
+      <key>2-18945</key>
+      <recipe>2</recipe>
+      <gram>225</gram>
+      <ndb>18945</ndb>
+      <desc>Pie crust, deep dish, frozen, unbaked, made with enriched
+flour</desc>
+      <protein>12.42</protein>
+      <totalFat>64.665</totalFat>
+      <calories>1053</calories>
+      <sodium>794.25</sodium>
+      <carbohydrate>105.2775</carbohydrate>
+   </row>
+   <row>
+      <key>2-11943</key>
+      <recipe>2</recipe>
+      <gram>24</gram>
+      <ndb>11943</ndb>
+      <desc>Pimento, canned</desc>
+      <protein>0.264</protein>
+      <totalFat>0.072</totalFat>
+      <calories>5.52</calories>
+      <sodium>3.36</sodium>
+      <carbohydrate>1.224</carbohydrate>
+   </row>
+   <row>
+      <key>2-2047</key>
+      <recipe>2</recipe>
+      <gram>1.5</gram>
+      <ndb>2047</ndb>
+      <desc>Salt, table</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>0</calories>
+      <sodium>581.37</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+   <row>
+      <key>2-1040</key>
+      <recipe>2</recipe>
+      <gram>162</gram>
+      <ndb>1040</ndb>
+      <desc>Cheese, swiss</desc>
+      <protein>43.6266</protein>
+      <totalFat>45.036</totalFat>
+      <calories>615.6</calories>
+      <sodium>113.4</sodium>
+      <carbohydrate>8.7156</carbohydrate>
+   </row>
+   <row>
+      <key>3-18369</key>
+      <recipe>3</recipe>
+      <gram>4.6</gram>
+      <ndb>18369</ndb>
+      <desc>Leavening agents, baking powder, double-acting, sodium
+aluminum sulfate</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>2.438</calories>
+      <sodium>487.6</sodium>
+      <carbohydrate>1.2742</carbohydrate>
+   </row>
+   <row>
+      <key>3-18372</key>
+      <recipe>3</recipe>
+      <gram>9.2</gram>
+      <ndb>18372</ndb>
+      <desc>Leavening agents, baking soda</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>0</calories>
+      <sodium>2517.12</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+   <row>
+      <key>3-14210</key>
+      <recipe>3</recipe>
+      <gram>240</gram>
+      <ndb>14210</ndb>
+      <desc>Coffee, brewed, espresso, restaurant-prepared</desc>
+      <protein>0.288</protein>
+      <totalFat>0.432</totalFat>
+      <calories>21.6</calories>
+      <sodium>33.6</sodium>
+      <carbohydrate>4.008</carbohydrate>
+   </row>
+   <row>
+      <key>3-1123</key>
+      <recipe>3</recipe>
+      <gram>100</gram>
+      <ndb>1123</ndb>
+      <desc>Egg, whole, raw, fresh</desc>
+      <protein>12.56</protein>
+      <totalFat>9.51</totalFat>
+      <calories>143</calories>
+      <sodium>142</sodium>
+      <carbohydrate>0.72</carbohydrate>
+   </row>
+   <row>
+      <key>3-1077</key>
+      <recipe>3</recipe>
+      <gram>245</gram>
+      <ndb>1077</ndb>
+      <desc>Milk, whole, 3.25% milkfat, with added vitamin D</desc>
+      <protein>7.7175</protein>
+      <totalFat>7.9625</totalFat>
+      <calories>149.45</calories>
+      <sodium>105.35</sodium>
+      <carbohydrate>11.76</carbohydrate>
+   </row>
+   <row>
+      <key>3-2047</key>
+      <recipe>3</recipe>
+      <gram>3</gram>
+      <ndb>2047</ndb>
+      <desc>Salt, table</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>0</calories>
+      <sodium>1162.74</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+   <row>
+      <key>3-19165</key>
+      <recipe>3</recipe>
+      <gram>65</gram>
+      <ndb>19165</ndb>
+      <desc>Cocoa, dry powder, unsweetened</desc>
+      <protein>12.74</protein>
+      <totalFat>8.905</totalFat>
+      <calories>148.2</calories>
+      <sodium>13.65</sodium>
+      <carbohydrate>37.635</carbohydrate>
+   </row>
+   <row>
+      <key>3-4582</key>
+      <recipe>3</recipe>
+      <gram>109</gram>
+      <ndb>4582</ndb>
+      <desc>Oil, canola</desc>
+      <protein>0</protein>
+      <totalFat>109</totalFat>
+      <calories>963.56</calories>
+      <sodium>0</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+   <row>
+      <key>3-2048</key>
+      <recipe>3</recipe>
+      <gram>10</gram>
+      <ndb>2048</ndb>
+      <desc>Vinegar, cider</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>2.1</calories>
+      <sodium>0.5</sodium>
+      <carbohydrate>0.093</carbohydrate>
+   </row>
+   <row>
+      <key>3-19335</key>
+      <recipe>3</recipe>
+      <gram>400</gram>
+      <ndb>19335</ndb>
+      <desc>Sugars, granulated</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>1548</calories>
+      <sodium>4</sodium>
+      <carbohydrate>399.92</carbohydrate>
+   </row>
+   <row>
+      <key>3-20082</key>
+      <recipe>3</recipe>
+      <gram>250</gram>
+      <ndb>20082</ndb>
+      <desc>Wheat flour, white, all-purpose, self-rising, enriched</desc>
+      <protein>24.725</protein>
+      <totalFat>2.425</totalFat>
+      <calories>885</calories>
+      <sodium>2982.5</sodium>
+      <carbohydrate>185.55</carbohydrate>
+   </row>
+   <row>
+      <key>4-11090</key>
+      <recipe>4</recipe>
+      <gram>46</gram>
+      <ndb>11090</ndb>
+      <desc>Broccoli, raw</desc>
+      <protein>1.2972</protein>
+      <totalFat>0.1702</totalFat>
+      <calories>15.64</calories>
+      <sodium>15.18</sodium>
+      <carbohydrate>3.0544</carbohydrate>
+   </row>
+   <row>
+      <key>4-11124</key>
+      <recipe>4</recipe>
+      <gram>128</gram>
+      <ndb>11124</ndb>
+      <desc>Carrots, raw</desc>
+      <protein>1.1904</protein>
+      <totalFat>0.3072</totalFat>
+      <calories>52.48</calories>
+      <sodium>88.32</sodium>
+      <carbohydrate>12.2624</carbohydrate>
+   </row>
+   <row>
+      <key>4-11215</key>
+      <recipe>4</recipe>
+      <gram>3</gram>
+      <ndb>11215</ndb>
+      <desc>Garlic, raw</desc>
+      <protein>0.1908</protein>
+      <totalFat>0.015</totalFat>
+      <calories>4.47</calories>
+      <sodium>0.51</sodium>
+      <carbohydrate>0.9918</carbohydrate>
+   </row>
+   <row>
+      <key>4-20054</key>
+      <recipe>4</recipe>
+      <gram>278</gram>
+      <ndb>20054</ndb>
+      <desc>Rice, white, glutinous, raw</desc>
+      <protein>18.9318</protein>
+      <totalFat>1.529</totalFat>
+      <calories>1028.6</calories>
+      <sodium>19.46</sodium>
+      <carbohydrate>227.0704</carbohydrate>
+   </row>
+   <row>
+      <key>4-11282</key>
+      <recipe>4</recipe>
+      <gram>70</gram>
+      <ndb>11282</ndb>
+      <desc>Onions, raw</desc>
+      <protein>0.77</protein>
+      <totalFat>0.07</totalFat>
+      <calories>28</calories>
+      <sodium>2.8</sodium>
+      <carbohydrate>6.538</carbohydrate>
+   </row>
+   <row>
+      <key>4-11821</key>
+      <recipe>4</recipe>
+      <gram>35</gram>
+      <ndb>11821</ndb>
+      <desc>Peppers, sweet, red, raw</desc>
+      <protein>0.3465</protein>
+      <totalFat>0.105</totalFat>
+      <calories>10.85</calories>
+      <sodium>1.4</sodium>
+      <carbohydrate>2.1105</carbohydrate>
+   </row>
+   <row>
+      <key>4-6615</key>
+      <recipe>4</recipe>
+      <gram>705</gram>
+      <ndb>6615</ndb>
+      <desc>SWANSON BROTH, Vegetable Broth</desc>
+      <protein>0</protein>
+      <totalFat>0</totalFat>
+      <calories>35.25</calories>
+      <sodium>2820</sodium>
+      <carbohydrate>9.024</carbohydrate>
+   </row>
+   <row>
+      <key>4-4664</key>
+      <recipe>4</recipe>
+      <gram>4.5</gram>
+      <ndb>4664</ndb>
+      <desc>Oil, industrial, soy (partially hydrogenated ), palm,
+principal uses icings and fillings</desc>
+      <protein>0</protein>
+      <totalFat>4.5</totalFat>
+      <calories>39.78</calories>
+      <sodium>0</sodium>
+      <carbohydrate>0</carbohydrate>
+   </row>
+	</document>
+	
+	

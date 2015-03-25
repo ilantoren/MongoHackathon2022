@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <item id="203" value="protein"/>
+   <item id="205" value="carbohydrate"/>
+   <item id="204" value="totalFat"/>
+   <item id="208" value="calories"/>
+   <item id="209" value="starch"/>
+   <item id="210" value="sucrose"/>
+   <item id="211" value="glucose"/>
+   <item id="213" value="lactose"/>
+   <item id="221" value="alcohol"/>
+   <item id="257" value="adj_protein"/>
+   <item id="262" value="caffeine"/>
+   <item id="263" value="theobromine"/>
+   <item id="268" value="energy" />
+   <item id="269" value="sugars"/>
+   <item id="291" value="fiber"/>
+   <item id="301" value="calcium"/>
+   <item id="303" value="iron"/>
+   <item id="304" value="magnesium"/>
+   <item id="305" value="phosphorous" />
+   <item id="306" value="potassium"/>
+   <item id="307" value="sodium"/>
+   <item id="318" value="vitA"/>
+   <item id="324" value="vitD"/>
+   <item id="401" value="vitC"/>
+   <item id="645" value="monoFat"/>
+   <item id="646" value="polyFat"/>
+   <item id="605" value="transFat"/>
+   <item id="606" value="satFat"/>
+   <item id="601" value="cholesterol"/>
+</list>
