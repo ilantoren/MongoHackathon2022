@@ -14,7 +14,7 @@ class PubSub : BackgroundFunction<PubSub.PubSubMessage> {
         val data =
             if (message.data != null) String(Base64.getDecoder().decode(message.data)) else "Trigger info missing"
         logger.info(data)
-        val process = Process()
+        Process()
     }
 
     class PubSubMessage {

@@ -1,7 +1,8 @@
 package hackathon
 
-
-//@DefaultSchema(JavaFieldSchema::class)
+/**
+ * Ktor uses this file to serialize the GDEVENT record to the database
+ */
  data class GdeltEvent(
     var GlobalEventId: Long? = null,
     var Day: Long? = null,

@@ -1,5 +1,7 @@
 package hackathon;
-
+/**
+ * Taken from teh google java  example of calling bigquery
+ */
 
 import com.google.cloud.bigquery.BigQuery;
 import com.google.cloud.bigquery.BigQueryOptions;
