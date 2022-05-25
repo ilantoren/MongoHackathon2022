@@ -5,6 +5,26 @@ What is all this?  Using data analysis on GDELT data
 * Use the gdettools script  to load as zip files from the GDELT
 * Use this jar file to load directly from bigquery then use the Mongodb Data api to load to atlas
 
-<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-mfe-api-mwqom/embed/charts?id=6287503f-effe-4247-846c-7d4ef23f6c8b&maxDataAge=3600&theme=light&autoRefresh=true"></iframe>
+# Loading directly from BigQuery and loading to Atlas with the 
 
-<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-mfe-api-mwqom/embed/charts?id=6287503f-effe-4247-846c-7d4ef23f6c8b&maxDataAge=3600&theme=light&autoRefresh=true"></iframe>
+# Using R and ggplot with Atlas and GDELT [Atlas Data Api](https://www.mongodb.com/docs/atlas/api/data-api)
+On the Atlas side the Data Api can be turned on very simply after the standard creation of an authentication method
+![](images/Advanced Rest Client.png)
+### Using the Advanced Rest Client to pull data with an HTTP POST 
+
+
+## Calling BigQuery from within Kotlin code
+```
+        val bigquery = BigQueryOptions.getDefaultInstance().service
+        val queryConfig = QueryJobConfiguration.newBuilder(
+            "select $fieldList from `gdelt-bq.gdeltv2.events`  where GLOBALEVENTID > $lastId limit 2000"
+        ) // Use standard SQL syntax for queries.
+            // See: https://cloud.google.com/bigquery/sql-reference/
+            .setUseLegacySql(false)
+            .build()
+
+```
+   **Field list matches a Kotlin data class limit is obtained from  Atlas  with the Data Api using Ktor**
+
+
+![](images/Rplot.png)
