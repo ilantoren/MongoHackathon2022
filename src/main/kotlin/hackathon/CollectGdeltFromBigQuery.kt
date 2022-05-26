@@ -14,8 +14,6 @@ object CollectGDeltEvents {
         // [START bigquery_simple_app_client]
 
         val bigquery = BigQueryOptions.getDefaultInstance().service
-        // [END bigquery_simple_app_client]
-        // [START bigquery_simple_app_query]
         val queryConfig = QueryJobConfiguration.newBuilder(
             "select $fieldList from `gdelt-bq.gdeltv2.events`  where GLOBALEVENTID > $lastId limit 2000"
         ) // Use standard SQL syntax for queries.

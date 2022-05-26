@@ -54,3 +54,11 @@ compileKotlin{
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
 }
+
+sourceSets {
+    all {
+        languageSettings {
+            optIn('kotlin.RequireOptIn')
+        }
+    }
+}

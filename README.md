@@ -28,7 +28,7 @@ On the Atlas side the Data Api can be turned on very simply after the standard c
 
 There is a basic setup to use Google Cloud,  you have to enable a service to your account, so for this you will need the
 Cloud Scheduler, PubSub, and BigQuery
-
+I have a more detailed description at [Mongo's Data API is Cloud Ready](https://medium.com/@mongo-loves-data/mongos-data-api-is-cloud-ready-9d0537841ead)
 To upload the built code you need to run the "build" task in  Gradlew (./gradlew build) and then
 from you need to remove the 'MongoHackathon2022-1.0-SNAPSHOT-all.jar' file then run the deploy.sh 
 
@@ -214,5 +214,11 @@ mongodata %>% group_by( GoldsteinScale) %>% ggplot( aes( x=EventRootCode, y=Gold
 # Countries are not all the same (die of non-surprise)
 
 ![](images/eventcode_count_country.jpeg)
+
+---
+## Another neat ggplot2 
+![](images/avgtone_goldsteinscale_actorcode.jpeg)
+
+```mongodata %>%  ggplot( aes( x=GoldsteinScale, y=AvgTone)) + geom_density2d_filled() +ylim(-10,10) + labs(title="AvgTone, GoldsteinScale as an index of conflict and happiness",subtitle = "Country codes aus,fin,fra,irn,isr,ita,jew,jpn,rus,swz,tur,ukr") + facet_wrap(~Actor1Code, ncol=4)```
 
 

@@ -38,13 +38,13 @@ class Process {
         run()
     }
 
-    @OptIn(InternalAPI::class)
     fun run() = runBlocking {
         val apiKey: String = dotenv.get("mongo-api-key")
         // this builder requires the @OptIn, which in turns requires
         //   -opt-in=kotlin.RequiresOptIn in the program arguments
         // when building with gradle
-        val requestHeaders = StringValuesBuilder().apply {
+
+        val requestHeaders = HeadersBuilder(4).apply {
             append("Content-Type", "application/json")
             append("Access-Control-Request-Headers", "*")
             append("Accept-Encoding", "gzip")
