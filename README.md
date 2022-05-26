@@ -5,9 +5,9 @@ What is all this?  Using data analysis on GDELT data
 * Use the gdettools script  to load as zip files from the GDELT
 * Use this jar file to load directly from bigquery then use the Mongodb Data api to load to atlas
 
-# Loading directly from BigQuery and loading to Atlas with the 
+# Loading directly from BigQuery and loading to Atlas with the [Atlas Data Api](https://www.mongodb.com/docs/atlas/api/data-api)
 
-# Using R and ggplot with Atlas and GDELT [Atlas Data Api](https://www.mongodb.com/docs/atlas/api/data-api)
+# Using R and ggplot with Atlas and GDELT 
 On the Atlas side the Data Api can be turned on very simply after the standard creation of an authentication method
 ![](images/Advanced Rest Client.png)
 ### Using the Advanced Rest Client to pull data with an HTTP POST 
