@@ -1,5 +1,6 @@
 # MongoHackathon2022
-What is all this?  Using data analysis on GDELT data
+[What is all this?](https://hackathon-lmiij.mongodbstitch.com/)
+  Using data analysis on GDELT data
 
 ## How to obtain the GDELT event data
 * Use the gdettools script  to load as zip files from the GDELT
