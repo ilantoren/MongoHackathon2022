@@ -26,6 +26,7 @@ dependencies {
     implementation("com.google.cloud:google-cloud-logging-logback:0.123.0-alpha")
     implementation('com.google.cloud.functions:functions-framework-api:1.0.4')
     implementation("org.mongodb:bson:4.6.0")
+    implementation("org.slf4j:slf4j-api:2.0.0-alpha7")
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
 }
 
@@ -55,10 +56,3 @@ compileKotlin{
     targetCompatibility = JavaVersion.VERSION_11
 }
 
-sourceSets {
-    all {
-        languageSettings {
-            optIn('kotlin.RequireOptIn')
-        }
-    }
-}

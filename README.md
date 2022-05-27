@@ -5,6 +5,24 @@ What is all this?  Using data analysis on GDELT data
 * Use the gdettools script  to load as zip files from the GDELT
 * Use this jar file to load directly from bigquery then use the Mongodb Data api to load to atlas
 
+# Structure of Kotlin Code
+- First create an .env file to control access to the Atlas Cluster via the Data Api 
+
+```
+mongo-api-key=YOUR API KEY HERE
+mongo_database=mdg22
+mongo_source_collection=eventscsvmongo_database=mdg22
+mongo_source_collection=eventscsv
+mongo_datasource=mongoworld
+
+```
+## What the code does:
+- Connects to the collection with the events and find the last GlobalEventId added
+- Calls BigQuery to retrieve a set of events with a greater GlobalEventId (they increase with time)
+- Reads from the results and converts into an array of  data class 
+- Using a Kotlin ***data class*** and Ktor  send a insert_many request via the Data Api
+- A Trigger in Atlas responds to the insert by adding calculated fields that such as converting Long and Lat to valid GeoJson 
+
 # Loading directly from BigQuery and loading to Atlas with the [Atlas Data Api](https://www.mongodb.com/docs/atlas/api/data-api)
 
 # Using R and ggplot with Atlas and GDELT 
